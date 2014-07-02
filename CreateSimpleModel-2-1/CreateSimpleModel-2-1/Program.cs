@@ -10,9 +10,20 @@ namespace CreateSimpleModel_2_1
     {
         static void Main(string[] args)
         {
+            /* Only call if no entries in db yet.
+             * In later lessons we will first check the db context
+             * to see if the record exist 
+            */
+           //AddPeople();
+             
+            OutputPeople();
+        }
+
+        static void AddPeople()
+        {
             using (var context = new EF6RecipesContext())
             {
-                var person = new Person 
+                var person = new Person
                 {
                     FirstName = "Robert",
                     MiddleName = "Allen",
@@ -54,8 +65,10 @@ namespace CreateSimpleModel_2_1
 
                 context.SaveChanges();
             }
+        }
 
-
+        static void OutputPeople()
+        {
             using (var context = new EF6RecipesContext())
             {
                 foreach (var person in context.People)
