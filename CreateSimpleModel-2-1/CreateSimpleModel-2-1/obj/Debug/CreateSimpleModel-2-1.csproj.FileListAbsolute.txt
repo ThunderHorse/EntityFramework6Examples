@@ -1,0 +1,8 @@
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\bin\Debug\CreateSimpleModel-2-1.exe.config
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\bin\Debug\CreateSimpleModel-2-1.exe
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\bin\Debug\CreateSimpleModel-2-1.pdb
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\bin\Debug\EntityFramework.dll
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\bin\Debug\EntityFramework.xml
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\obj\Debug\CreateSimpleModel-2-1.csprojResolveAssemblyReference.cache
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\obj\Debug\CreateSimpleModel-2-1.exe
+c:\users\jxp1230\documents\visual studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1\obj\Debug\CreateSimpleModel-2-1.pdb
