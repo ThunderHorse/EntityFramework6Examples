@@ -1,0 +1,13 @@
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\CreateSimpleModel-2-1.Test.dll
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\CreateSimpleModel-2-1.Test.pdb
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\CreateSimpleModel-2-1.exe
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\nunit.framework.dll
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\EntityFramework.dll
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\CreateSimpleModel-2-1.pdb
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\nunit.framework.xml
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\EntityFramework.xml
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\obj\Debug\CreateSimpleModel-2-1Test.csprojResolveAssemblyReference.cache
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\obj\Debug\CreateSimpleModel-2-1.Test.dll
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\obj\Debug\CreateSimpleModel-2-1.Test.pdb
+C:\Users\jxp1230\Documents\Visual Studio 2012\Projects\CreateSimpleModel-2-1\CreateSimpleModel-2-1.Test\bin\Debug\CreateSimpleModel-2-1.Test.dll.config
